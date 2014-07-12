@@ -1,7 +1,7 @@
 ---
 - hosts: default
   vars:
-      splunkver: 6.1.1-207789-linux-2.6-x86_64
+      splunkver: 6.1.2-213098-linux-2.6-x86_64
       installapps: true
       # ssl_enabled
       # auth_enabled
